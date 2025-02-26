@@ -1,0 +1,1 @@
+Este código em C# separa os números de um array em primos e não primos, conta a frequência de cada número e exibe os resultados. Ele usa a função EhPrimo para identificar números primos e armazena os números e suas contagens em arrays, ajustando seus tamanhos conforme necessário. Ao final, imprime os números primos, os não primos e as ocorrências de cada número.
